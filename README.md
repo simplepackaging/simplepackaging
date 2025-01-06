@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -128,7 +129,7 @@
         <div class="product">
             <h3>Tempat Makan</h3>
             <p>Rp7.000</p>
-            <img src="blob:https://imgur.com/8a2b72f1-5d8f-4da3-a6f5-6fd54f8fb84d" alt="Tempat Makan">
+            <img src="https://i.imgur.com/s98SjJH.jpeg" alt="Tempat Makan">
         </div>
         <div class="product">
             <h3>Tempat Minum</h3>
