@@ -128,7 +128,8 @@
         <div class="product">
             <h3>Tempat Makan dan Minum</h3>
             <p>Rp12.000</p>
-            <img src="https://i.imgur.com/cjhi3xU.jpeg" alt="Tempat Makan dan Minum"
+            <img src="https://i.imgur.com/cjhi3xU.jpeg" alt="Tempat Makan dan Minum">
+        </div>
     </section>
 
     <section id="social-media" class="social-media">
@@ -156,3 +157,4 @@
     </footer>
 </body>
 </html>
+
