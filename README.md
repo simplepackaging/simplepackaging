@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -127,15 +126,9 @@
     <section id="product" class="product-section">
         <h2>Produk Kami</h2>
         <div class="product">
-            <h3>Tempat Makan</h3>
-            <p>Rp7.000</p>
-            <img src="https://i.imgur.com/s98SjJH.jpeg" alt="Tempat Makan">
-        </div>
-        <div class="product">
-            <h3>Tempat Minum</h3>
-            <p>Rp5.000</p>
-            <img src="https://i.imgur.com/Gm3GLuu.jpeg" alt="Tempat Minum">
-        </div>
+            <h3>Tempat Makan dan Minum</h3>
+            <p>Rp12.000</p>
+            <img src="https://i.imgur.com/cjhi3xU.jpeg" alt="Tempat Makan dan Minum"
     </section>
 
     <section id="social-media" class="social-media">
